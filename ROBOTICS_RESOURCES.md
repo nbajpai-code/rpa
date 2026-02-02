@@ -90,42 +90,42 @@ Established in 1979 to conduct basic and applied research in robotics technologi
 
 ## 📚 Suggested Books
 
-### **Automatic Control, Robotics, and Information Processing**
+### **[Automatic Control, Robotics, and Information Processing](https://link.springer.com/book/10.1007/978-3-030-48587-0)**
 *   **Authors**: Piotr Kulczycki (Editor), Józef Korbicz (Editor), Janusz Kacprzyk (Editor)
 *   **Publisher**: Springer, 2020
 *   **Description**: Presents a wide and comprehensive range of issues and problems in various fields of science and engineering, from both theoretical and applied perspectives. Focuses on methods and algorithms for best practices in decisions or controls.
 
-### **Automation and Collaborative Robotics: A Guide to the Future of Work**
+### **[Automation and Collaborative Robotics: A Guide to the Future of Work](https://link.springer.com/book/10.1007/978-1-4842-5623-8)**
 *   **Authors**: Peter Matthews, Steven Greenspan, Maria Velez-Rojas
 *   **Publisher**: Apress, 2020
 *   **Description**: Explores technologies underpinning automation capabilities and their impact on the future of work. Covers collaborative robotics (cobotics), machine learning at the edge, and the future of human-robot collaboration.
 
-### **Elements of Robotics**
+### **[Elements of Robotics](https://link.springer.com/book/10.1007/978-3-319-62533-1)**
 *   **Authors**: Mordechai Ben-Ari, Francesco Mondada
 *   **Publisher**: Springer, 2018
 *   **Description**: Bridges the gap between playing with robots and studying robotics at the graduate level. Presents robotic algorithms formally using accessible mathematics (calculus, matrices, probability).
 
-### **Encyclopedia of Robotics**
+### **[Encyclopedia of Robotics](https://link.springer.com/referencework/10.1007/978-3-642-41610-1)**
 *   **Editors**: Marcelo H. Ang, Oussama Khatib, Bruno Sicilian
 *   **Publisher**: Springer, 2020
 *   **Description**: One-of a kind and exhaustive major robotics resource with a broad range of topics organized in an easy to access A-Z format. Perfect addition to the award-winning chapter-based Springer Handbook of Robotics. Useful for multiple audiences – both general and specialized.
 
-### **Robot Design: From Theory to Service Applications**
+### **[Robot Design: From Theory to Service Applications](https://link.springer.com/book/10.1007/978-3-031-11128-0)**
 *   **Editors**: Giuseppe Carbone, Med Amine Laribi
 *   **Publisher**: Springer, 2022
 *   **Description**: A multi-disciplinary approach to robot design capable of explaining fundamentals through real applications, spanning from machinery mechanics to control theory and mechatronics.
 
-### **Robots: What Everyone Needs to Know**
+### **[Robots: What Everyone Needs to Know](https://global.oup.com/academic/product/robots-9780198843328)**
 *   **Author**: Phil Husbands
 *   **Publisher**: Oxford, 2022
 *   **Description**: A concise, accessible introduction to robots, what they can't, and what their increasing encroachment into our lives might mean for us.
 
-### **Springer Handbook of Robotics**
+### **[Springer Handbook of Robotics](https://link.springer.com/book/10.1007/978-3-319-32552-1)**
 *   **Editors**: Bruno Siciliano, Oussama Khatib
 *   **Publisher**: Springer, 2016 (2nd Edition)
 *   **Description**: A state-of-the-art overview of the field of robotics, reaching for the human frontier. Covers new emerging domains and the results of a half-century of robotic developments.
 
-### **Theory of Applied Robotics: Kinematics, Dynamics, and Control**
+### **[Theory of Applied Robotics: Kinematics, Dynamics, and Control](https://link.springer.com/book/10.1007/978-3-030-93220-6)**
 *   **Author**: Reza N. Jazar
 *   **Publisher**: Springer, 2022
 *   **Description**: Presents detailed robotics concepts at a theoretical-practical level, concentrating on practical use. Includes theorems, formal proofs, and real-life applications.
