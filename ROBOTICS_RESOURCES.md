@@ -42,19 +42,19 @@ A comprehensive list of resources for robotics, automation, and RPA, covering in
 ### **Association for Advancing Automation (A3)**
 [AUTOMATE.ORG](https://www.automate.org/) is the home for the Association for Advancing Automation, the leading global automation trade association of the robotics, machine vision, motion control, and industrial AI industries. Resources are provided on products, partners, new applications, training, and information on the latest technologies.
 
-### **IEEE Robotics & Automation Society**
+### **[IEEE Robotics & Automation Society](https://www.ieee-ras.org)**
 The IEEE Robotics and Automation Society strives for the advancement of the theory and practice of robotics and automation engineering and science and of the allied arts and sciences. It maintains high professional standards among its members, consistent with the IEEE Constitution and Bylaws.
 
-### **MIT Biomimetic Robotics Lab**
+### **[MIT Biomimetic Robotics Lab](http://biomimetics.mit.edu)**
 The Biomimetic Robotics Laboratory at MIT focuses on designing and controlling robots using insights taken from the natural world. Many animals can display incredible feats of speed and agility that are sources of inspiration for the robots designed by the group.
 
-### **National Robotics Engineering Center (NREC) - CMU**
+### **[National Robotics Engineering Center (NREC) - CMU](https://www.nrec.ri.cmu.edu/)**
 NREC develops and matures robotics technologies and solutions from concept to commercialization. NREC also leads in educational outreach through its Robotics Academy, which creates robotics curricula and software for K-12 and college-level students.
 
-### **Robotics and Autonomous Systems Laboratory (RASL) - ERAU**
+### **[Robotics and Autonomous Systems Laboratory (RASL) - ERAU](https://erau.edu)**
 The Robotics and Autonomous Systems Laboratory (RASL) provides dedicated workspaces for large unmanned system development and state-of-the-art sensors designed for integration on existing large-scale platforms for air, ground, and maritime domains. The laboratory is designed to accommodate for the needs of sense and avoid, swarms of cooperative autonomous and/or unmanned vehicles, and control scheme development for large platforms.
 
-### **The Robotics Institute - Carnegie Mellon University**
+### **[The Robotics Institute - Carnegie Mellon University](https://www.ri.cmu.edu)**
 Established in 1979 to conduct basic and applied research in robotics technologies relevant to industrial and societal tasks. Seeking to combine the practical and the theoretical, the Robotics Institute has diversified its efforts to realize the potential of the robotics field.
 
 ### **Robohub**
@@ -68,23 +68,23 @@ Established in 1979 to conduct basic and applied research in robotics technologi
 
 ## 📖 Popular Journals
 
-### **Advanced Robotics**
+### **[Advanced Robotics](https://www.rsj.or.jp/pub/ar/ar-section/)**
 *   **Availability**: 1997 - present
 *   **Description**: The international journal of the Robotics Society of Japan. An interdisciplinary journal integrating all aspects of research on robotics science and technology, publishing original research and survey papers from around the world on analysis, theory, design, development, implementation, and use of robots.
 
-### **IEEE Transactions on Robotics (T-RO)**
+### **[IEEE Transactions on Robotics (T-RO)](https://ieee-ras.org/publications/t-ro)**
 *   **Availability**: 2004 - present
 *   **Description**: Publishes fundamental papers on all aspects of robotics, featuring interdisciplinary approaches from computer science, control systems, electrical engineering, mathematics, mechanical engineering, and other fields.
 
-### **International Journal of Control, Automation, and Systems (IJCAS)**
+### **[International Journal of Control, Automation, and Systems (IJCAS)](https://ijcas.org)**
 *   **Availability**: 2009 - present
 *   **Description**: Provides a forum for original research results on theory, design, experiments, and applications in all technical areas of control, automation, and systems.
 
-### **Journal of Field Robotics**
+### **[Journal of Field Robotics](https://onlinelibrary.wiley.com/journal/15564967)**
 *   **Availability**: 2006 - present
 *   **Description**: Seeks to promote scholarly publications dealing with the fundamentals of robotics in unstructured and dynamic environments.
 
-### **Robotics and Autonomous Systems**
+### **[Robotics and Autonomous Systems](https://www.sciencedirect.com/journal/robotics-and-autonomous-systems)**
 *   **Availability**: 1988 - present
 *   **Description**: Carries articles describing fundamental developments in the field of robotics, with special emphasis on autonomous systems. An important goal is to extend the state of the art in both symbolic and sensory-based robot control and learning in the context of autonomous systems.
 
