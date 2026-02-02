@@ -52,13 +52,19 @@ The Biomimetic Robotics Laboratory at MIT focuses on designing and controlling r
 NREC develops and matures robotics technologies and solutions from concept to commercialization. NREC also leads in educational outreach through its Robotics Academy, which creates robotics curricula and software for K-12 and college-level students.
 
 ### **Robotics and Autonomous Systems Laboratory (RASL) - ERAU**
-The Robotics and Autonomous Systems Laboratory (RASL) provides dedicated workspaces for large unmanned system development and state-of-the-art sensors designed for integration on existing large-scale platforms for air, ground, and maritime domains.
+The Robotics and Autonomous Systems Laboratory (RASL) provides dedicated workspaces for large unmanned system development and state-of-the-art sensors designed for integration on existing large-scale platforms for air, ground, and maritime domains. The laboratory is designed to accommodate for the needs of sense and avoid, swarms of cooperative autonomous and/or unmanned vehicles, and control scheme development for large platforms.
 
 ### **The Robotics Institute - Carnegie Mellon University**
 Established in 1979 to conduct basic and applied research in robotics technologies relevant to industrial and societal tasks. Seeking to combine the practical and the theoretical, the Robotics Institute has diversified its efforts to realize the potential of the robotics field.
 
 ### **Robohub**
 [Robohub](https://robohub.org/) is a non-profit online communication platform that brings together experts in robotics research, start-ups, business, and education from across the globe. Its mission is to connect the robotics community to the rest of the world.
+
+## 💾 Key Databases
+
+### **IEEE Xplore Digital Library**
+*   **Description**: Journals, magazines, conference proceedings, transactions, and standards in areas such as electrical engineering, computer science, electronics, media, and more.
+*   **Link**: [IEEE Xplore](https://ieeexplore.ieee.org/)
 
 ## 📖 Popular Journals
 
@@ -102,7 +108,7 @@ Established in 1979 to conduct basic and applied research in robotics technologi
 ### **Encyclopedia of Robotics**
 *   **Editors**: Marcelo H. Ang, Oussama Khatib, Bruno Sicilian
 *   **Publisher**: Springer, 2020
-*   **Description**: An exhaustive major robotics resource with a broad range of topics organized in an easy-to-access A-Z format.
+*   **Description**: One-of a kind and exhaustive major robotics resource with a broad range of topics organized in an easy to access A-Z format. Perfect addition to the award-winning chapter-based Springer Handbook of Robotics. Useful for multiple audiences – both general and specialized.
 
 ### **Robot Design: From Theory to Service Applications**
 *   **Editors**: Giuseppe Carbone, Med Amine Laribi
@@ -112,7 +118,7 @@ Established in 1979 to conduct basic and applied research in robotics technologi
 ### **Robots: What Everyone Needs to Know**
 *   **Author**: Phil Husbands
 *   **Publisher**: Oxford, 2022
-*   **Description**: A concise, accessible introduction to robots, their capabilities, limitations, and their increasing encroachment into our lives (from domestic cleaners to driverless cars).
+*   **Description**: A concise, accessible introduction to robots, what they can't, and what their increasing encroachment into our lives might mean for us.
 
 ### **Springer Handbook of Robotics**
 *   **Editors**: Bruno Siciliano, Oussama Khatib
