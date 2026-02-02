@@ -59,3 +59,25 @@ Established in 1979 to conduct basic and applied research in robotics technologi
 
 ### **Robohub**
 [Robohub](https://robohub.org/) is a non-profit online communication platform that brings together experts in robotics research, start-ups, business, and education from across the globe. Its mission is to connect the robotics community to the rest of the world.
+
+## 📖 Popular Journals
+
+### **Advanced Robotics**
+*   **Availability**: 1997 - present
+*   **Description**: The international journal of the Robotics Society of Japan. An interdisciplinary journal integrating all aspects of research on robotics science and technology, publishing original research and survey papers from around the world on analysis, theory, design, development, implementation, and use of robots.
+
+### **IEEE Transactions on Robotics (T-RO)**
+*   **Availability**: 2004 - present
+*   **Description**: Publishes fundamental papers on all aspects of robotics, featuring interdisciplinary approaches from computer science, control systems, electrical engineering, mathematics, mechanical engineering, and other fields.
+
+### **International Journal of Control, Automation, and Systems (IJCAS)**
+*   **Availability**: 2009 - present
+*   **Description**: Provides a forum for original research results on theory, design, experiments, and applications in all technical areas of control, automation, and systems.
+
+### **Journal of Field Robotics**
+*   **Availability**: 2006 - present
+*   **Description**: Seeks to promote scholarly publications dealing with the fundamentals of robotics in unstructured and dynamic environments.
+
+### **Robotics and Autonomous Systems**
+*   **Availability**: 1988 - present
+*   **Description**: Carries articles describing fundamental developments in the field of robotics, with special emphasis on autonomous systems. An important goal is to extend the state of the art in both symbolic and sensory-based robot control and learning in the context of autonomous systems.
