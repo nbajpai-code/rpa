@@ -36,3 +36,26 @@ A comprehensive list of resources for robotics, automation, and RPA, covering in
         1.  **Attended**: Works alongside humans.
         2.  **Unattended**: Runs autonomously in the background.
         3.  **Hybrid**: A combination of both.
+
+## 🌐 Key Robotics Websites & Labs
+
+### **Association for Advancing Automation (A3)**
+[AUTOMATE.ORG](https://www.automate.org/) is the home for the Association for Advancing Automation, the leading global automation trade association of the robotics, machine vision, motion control, and industrial AI industries. Resources are provided on products, partners, new applications, training, and information on the latest technologies.
+
+### **IEEE Robotics & Automation Society**
+The IEEE Robotics and Automation Society strives for the advancement of the theory and practice of robotics and automation engineering and science and of the allied arts and sciences. It maintains high professional standards among its members, consistent with the IEEE Constitution and Bylaws.
+
+### **MIT Biomimetic Robotics Lab**
+The Biomimetic Robotics Laboratory at MIT focuses on designing and controlling robots using insights taken from the natural world. Many animals can display incredible feats of speed and agility that are sources of inspiration for the robots designed by the group.
+
+### **National Robotics Engineering Center (NREC) - CMU**
+NREC develops and matures robotics technologies and solutions from concept to commercialization. NREC also leads in educational outreach through its Robotics Academy, which creates robotics curricula and software for K-12 and college-level students.
+
+### **Robotics and Autonomous Systems Laboratory (RASL) - ERAU**
+The Robotics and Autonomous Systems Laboratory (RASL) provides dedicated workspaces for large unmanned system development and state-of-the-art sensors designed for integration on existing large-scale platforms for air, ground, and maritime domains.
+
+### **The Robotics Institute - Carnegie Mellon University**
+Established in 1979 to conduct basic and applied research in robotics technologies relevant to industrial and societal tasks. Seeking to combine the practical and the theoretical, the Robotics Institute has diversified its efforts to realize the potential of the robotics field.
+
+### **Robohub**
+[Robohub](https://robohub.org/) is a non-profit online communication platform that brings together experts in robotics research, start-ups, business, and education from across the globe. Its mission is to connect the robotics community to the rest of the world.
